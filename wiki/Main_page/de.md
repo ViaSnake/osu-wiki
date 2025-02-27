@@ -102,7 +102,7 @@ Orte: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Ch
 
 [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 
-[Projekte](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projekte](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -115,7 +115,7 @@ osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entw
 
 [osu!-Team](/wiki/People/osu!_team) • [Entwickler](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Benutzergruppe](/wiki/People/User_group) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Benutzergruppen](/wiki/People/User_groups) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -124,7 +124,7 @@ osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entw
 
 Interagiere mit osu! durch andere Applikationen und Medien oder helfe bei seiner Entwicklung.
 
-[API](/wiki/osu!api) • [Bot-Account](/wiki/Bot_account) • [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines) • [osu! Discord-Server](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Bot-Account](/wiki/Bot_account) • [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines) • [osu! Discord-Server](/wiki/Community/Discord_servers#offiziell)
 
 </div>
 <div class="wiki-main-page-panel">

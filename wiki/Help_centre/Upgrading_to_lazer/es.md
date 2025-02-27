@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 2b3e721dd5f2e2bda0bc389129010d07a929e176
+outdated_since: fd2cdf6390b49d4dfe4648128ba64e996adb985d
 ---
 
 # Actualizar a lazer
@@ -77,7 +77,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Envío de puntuaciones | ![Sí][true] | ![Sí][true] |
 | Tablas de clasificación de beatmaps | ![Sí][true] | ![Sí][true] |
 | Estadísticas de perfil | ![Sí][true] | ![Sí][true] |
-| Medallas | ![Sí][true] | ![No][false] |
+| Medallas | ![Sí][true] | ![Parcial][partial][^medals-lazer] |
 | Puntos de rendimiento | ![Sí][true] | ![Sí][true] |
 | Chat en tiempo real | ![Parcial][partial][^stable-chat] | ![Sí][true] |
 | Wiki / noticias / registro de cambios / clasificaciones | ![No][false] | ![Sí][true][^online-content] |
@@ -106,7 +106,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
 | Rotación de patrón | ![Sí][true] | ![Sí][true] |
 | Cambio de tamaño de patrón | ![No][false] | ![Sí][true] |
-| Envío de beatmaps | ![Sí][true] | ![No][false] |
+| Envío de beatmaps | ![Sí][true] | ![Sí][true] |
 | Editor de storyboards | ![Sí][true] | ![No][false] |
 | Compatibilidad entre versiones | ![Sí][true] | ![Parcial][partial][^incompatibilities] |
 
@@ -176,7 +176,7 @@ Las tablas de clasificación globales también usarán la puntuación clásica.
 
 #### Si establezco una puntuación en lazer, ¿permanecerá por siempre?
 
-Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto o todas las puntuaciones para preservar el balance del juego.
+Mientras que intentamos preservar la mayor cantidad de puntuaciones posibles, **no ofrecemos garantía de que las puntuaciones permanecerán indefinidamente**. En cualquier momento podemos optar por borrar un subconjunto de puntuaciones para preservar el equilibrio del juego, como cuando se descubren fallos o juego sucio.
 
 #### ¿Las puntuaciones establecidas en stable se mostrarán en lazer?
 
@@ -195,15 +195,15 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
 - Reducción de la dificultad
   - Easy
   - No Fail
-  - Half Time (solo 0,75x)
+  - Half Time (solo 0,75x, se puede usar `Adjust pitch`)
   - Daycore (solo 0,75x)
 - Aumento de la dificultad
   - Hard Rock (no para osu!mania)
-  - Sudden Death
-  - Perfect
+  - Sudden Death (Se puede usar `Restart on fail`)
+  - Perfect (Se puede usar `Restart on fail`)
   - Hidden
   - Nightcore (solo 1,5x)
-  - Double Time (solo 1,5x)
+  - Double Time (solo 1,5x, se puede usar `Adjust pitch`)
   - Flashlight
   - Blinds
   - Accuracy Challenge
@@ -222,6 +222,8 @@ Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimient
   - Spun out
 - Sistema
   - Touch Device
+
+Solo la configuración predeterminada de las opciones de personalización es elegible para obtener puntos de rendimiento, a menos que se indique lo contrario anteriormente.
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 
@@ -343,6 +345,7 @@ Probablemente estés pensando en otro juego.
 [^countdown-timers-lazer]: Establece una cuenta regresiva desde la IU del juego para comenzar la partida automáticamente.
 [^queue-modes]: Actívalos para permitir a cualquiera en la sala solicitar nuevos beatmaps, también conocido como «rotación del anfitrión».
 [^difficulty-adjust]: Cambia el CS/AR/OD/HP de un beatmap directamente en el selector de canciones mediante el mod Difficulty Adjust.
+[^medals-lazer]: Algunas [medallas Hush-Hush](/wiki/Medals#hush-hush) aún no se pueden conseguir.
 [^filo]: «Filo» es una de las traducciones de [cutting edge](/wiki/Client/Release_stream).
 
 [true]: /wiki/shared/true.png
