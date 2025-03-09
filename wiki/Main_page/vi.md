@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -102,7 +104,7 @@ Các kênh giao tiếp: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Co
 
 [Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Chương trình Cố vấn](/wiki/Community/Community_Mentorship_Program)
 
-[Dự án](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Dự án](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -115,7 +117,7 @@ osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự
 
 [Đội ngũ của osu!](/wiki/People/osu!_team): [Lập trình viên (DEV)](/wiki/People/Developers) • [Đội ngũ Kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ Hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team) • [Đội ngũ Đánh giá Đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Đề cử viên (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Giám tuyển Beatmap Tiêu điểm (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Cộng tác viên](/wiki/People/Community_Contributors) • [Đề cử viên ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_group) • [Những người dùng với danh hiệu đặc biệt](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Ban phụ trách Giải đấu](/wiki/People/Tournament_Committee) • [Ban phụ trách Điểm Hiệu suất](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Cộng tác viên](/wiki/People/Community_Contributors) • [Đề cử viên ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_groups) • [Những người dùng với danh hiệu đặc biệt](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Ban phụ trách Giải đấu](/wiki/People/Tournament_Committee) • [Ban phụ trách Điểm Hiệu suất](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -124,7 +126,7 @@ osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự
 
 Tương tác với osu! thông qua các ứng dụng và phương tiện khác, hoặc giúp trò chơi phát triển hơn nữa.
 
-[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
